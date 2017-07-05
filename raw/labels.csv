@@ -1,0 +1,124 @@
+GROUPDEX,LABEL,COLUMN,fixedColumn,fixedLevel
+1100,MOTHERs RACE,MOTHERs RACE,Mother's Race,All
+1100,MOTHER'S RACE,MOTHERs RACE,Mother's Race,All
+1101,White,MOTHERs RACE,Mother's Race,White
+1102,Black,MOTHERs RACE,Mother's Race,Black
+1103,Other,MOTHERs RACE,Mother's Race,Other
+1104,Unknown,MOTHERs RACE,Mother's Race,Unknown Race
+1104,UNKNOWN,MOTHERs RACE,Mother's Race,Unknown Race
+1200,MOTHERs ETHNICITY,MOTHERs ETHNICITY,Mother's Ethnicity,All
+1200,MOTHER'S ETHNICITY,MOTHERs ETHNICITY,Mother's Ethnicity,All
+1201,Non-Hispanic,MOTHERs ETHNICITY,Mother's Ethnicity,Non-Hispanic
+1202,Hispanic,MOTHERs ETHNICITY,Mother's Ethnicity,Hispanic
+1203,Unknown,MOTHERs ETHNICITY,Mother's Ethnicity,Unknown Ethnicity
+1203,UNKNOWN,MOTHERs ETHNICITY,Mother's Ethnicity,Unknown Ethnicity
+1300,MOTHERs RACE/ETHNICITY,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,All
+1300,MOTHER'S RACE & ETHNICITY,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,All
+1300,MOTHER'S RACE/ETHNICITY,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,All
+1301,White non-Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,White non-Hispanic
+1301,White Non-Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,White non-Hispanic
+1302,Black Non-Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,Black non-Hispanic
+1302,Black non-Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,Black non-Hispanic
+1303,Other Non-Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,Other non-Hispanic
+1303,Other non-Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,Other non-Hispanic
+1304,Hispanic,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,Hispanic
+1305,Unknown Race/Ethn,MOTHERs RACE/ETHNICITY,Mother's Race/Ethnicity,Unknown Race/Ethnicity
+3000,INFANTs SEX,INFANTs SEX,Infant's Sex,All
+3000,INFANT'S SEX,INFANTs SEX,Infant's Sex,All
+3101,Male,INFANTs SEX,Infant's Sex,Male
+3101,MALE,INFANTs SEX,Infant's Sex,Male
+3201,Female,INFANTs SEX,Infant's Sex,Female
+3201,FEMALE,INFANTs SEX,Infant's Sex,Female
+3301,Unknown,INFANTs SEX,Infant's Sex,Unknown
+4000,PLACE OF DELIVERY,PLACE OF DELIVERY,Place of Delivery,All
+4101,IN-HOSPITAL,PLACE OF DELIVERY,Place of Delivery,In-Hospital
+4101,In-Hospital,PLACE OF DELIVERY,Place of Delivery,In-Hospital
+4201,HOME BIRTH,PLACE OF DELIVERY,Place of Delivery,Home Birth
+4201,Home Birth,PLACE OF DELIVERY,Place of Delivery,Home Birth
+4301,Other & Unknown,PLACE OF DELIVERY,Place of Delivery,Other & Unknown
+4301,Other AND UNKNOWN,PLACE OF DELIVERY,Place of Delivery,Other & Unknown
+5000,PLURALITY,PLURALITY,Plurality,All
+5101,Singletons,PLURALITY,Plurality,Singletons
+5101,SINGLETONS,PLURALITY,Plurality,Singletons
+5201,Multiple Births,PLURALITY,Plurality,Multiple Births
+5201,MULTIPLE BIRTHS,PLURALITY,Plurality,Multiple Births
+5301,Unknown,PLURALITY,Plurality,Unknown
+6000,LIVE BIRTH ORDER,LIVE BIRTH ORDER,Live Birth Order,All
+6101,First Born,LIVE BIRTH ORDER,Live Birth Order,First Born
+6101,FIRST BORN,LIVE BIRTH ORDER,Live Birth Order,First Born
+6201,Second Born,LIVE BIRTH ORDER,Live Birth Order,Second Born
+6201,SECOND BORN,LIVE BIRTH ORDER,Live Birth Order,Second Born
+6301,Third or More,LIVE BIRTH ORDER,Live Birth Order,Third or More
+6301,THIRD OR MORE,LIVE BIRTH ORDER,Live Birth Order,Third or More
+6401,Unknown,LIVE BIRTH ORDER,Live Birth Order,Unknown
+7000,MOTHERs MARITAL STATUS,MOTHERs MARITAL STATUS,Mother's Marital Status,All
+7000,MOTHER'S MARITAL STATUS,MOTHERs MARITAL STATUS,Mother's Marital Status,All
+7101,Married,MOTHERs MARITAL STATUS,Mother's Marital Status,Married
+7101,MARRIED,MOTHERs MARITAL STATUS,Mother's Marital Status,Married
+7201,Unmarried,MOTHERs MARITAL STATUS,Mother's Marital Status,Unmarried
+7201,UNMARRIED,MOTHERs MARITAL STATUS,Mother's Marital Status,Unmarried
+7301,Unknown,MOTHERs MARITAL STATUS,Mother's Marital Status,Unknown
+7301,UNKNOWN,MOTHERs MARITAL STATUS,Mother's Marital Status,Unknown
+8000,MOTHERs EDUCATION,MOTHERs EDUCATION,Mother's Education,All
+8000,MOTHER'S EDUCATION,MOTHERs EDUCATION,Mother's Education,All
+8101,High School (<=11 YRS),MOTHERs EDUCATION,Mother's Education,Less than 12 years
+8101,HIGH SCHOOL (<=11),MOTHERs EDUCATION,Mother's Education,Less than 12 years
+8201,High School (12 YRS or GED),MOTHERs EDUCATION,Mother's Education,High School (12 yrs or GED)
+8201,HIGH SCHOOL (12),MOTHERs EDUCATION,Mother's Education,High School (12 yrs or GED)
+8301,College (13-16 YRS),MOTHERs EDUCATION,Mother's Education,College (13-16 yrs)
+8301,COLLEGE (13-16 YRS),MOTHERs EDUCATION,Mother's Education,College (13-16 yrs)
+8401,Post-College (17+YRS),MOTHERs EDUCATION,Mother's Education,Post-College (17 or more yrs)
+8401,POST-COLLEGE ( 17+YRS),MOTHERs EDUCATION,Mother's Education,Post-College (17 or more yrs)
+8501,Unknown,MOTHERs EDUCATION,Mother's Education,Unknown
+9000,MOTHERs AGE,MOTHERs AGE,Mother's Age,All
+9000,MOTHER'S AGE,MOTHERs AGE,Mother's Age,All
+9051,Less than 15 YRS,MOTHERs AGE,Mother's Age,0 to 14 years
+9051,LESS THAN 15 YRS,MOTHERs AGE,Mother's Age,0 to 14 years
+9101,15 YRS,MOTHERs AGE,Mother's Age,15 yrs
+9151,16 YRS,MOTHERs AGE,Mother's Age,16 yrs
+9201,17 YRS,MOTHERs AGE,Mother's Age,17 yrs
+9251,18 YRS,MOTHERs AGE,Mother's Age,18 yrs
+9301,19 YRS,MOTHERs AGE,Mother's Age,19 yrs
+9351,20-24 YRS,MOTHERs AGE,Mother's Age,20 to 24 years
+9401,25-29 YRS,MOTHERs AGE,Mother's Age,25 to 29 years
+9451,30-34 YRS,MOTHERs AGE,Mother's Age,30 to 34 years
+9501,35-39 YRS,MOTHERs AGE,Mother's Age,35 to 39 years
+9551,40-44 YRS,MOTHERs AGE,Mother's Age,40 to 44 years
+9601,45+ YRS,MOTHERs AGE,Mother's Age,45 years and older
+9651,Unknown,MOTHERs AGE,Mother's Age,Unknown
+10000,INITIATION OF PRENATAL CARE,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,All
+10051,None,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,None
+10051,NONE,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,None
+10101,First Trimester,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,First Trimester
+10101,FIRST TRIMESTER,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,First Trimester
+10151,Second Trimester,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,Second Trimester
+10151,SECOND TRIMESTER,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,Second Trimester
+10201,Third Trimester,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,Third Trimester
+10201,THIRD TRIMESTER,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,Third Trimester
+10251,Unknown,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,Unknown
+10251,UNKNOWN,INITIATION OF PRENATAL CARE,Initiation of Prenatal Care,Unknown
+12000,ADEQUACY OF PRENATAL CARE (APNCU INDEX),ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,All
+12051,Intensive,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Intensive
+12051,INTENSIVE,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Intensive
+12101,Adequate,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Adequate
+12101,ADEQUATE,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Adequate
+12151,Intermediate,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Intermediate
+12151,INTERMEDIATE,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Intermediate
+12201,INADEQUATE,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Inadequate
+12201,Inadequate,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Inadequate
+12251,Unknown,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Unknown
+12251,UNKNOWN,ADEQUACY OF PRENATAL CARE (APNCU INDEX),Adequacy of Prenatal Care,Unknown
+13000,SMOKING DURING PREGNANCY,SMOKING DURING PREGNANCY,Smoking During Pregnancy,All
+13101,Yes,SMOKING DURING PREGNANCY,Smoking During Pregnancy,Yes
+13101,YES,SMOKING DURING PREGNANCY,Smoking During Pregnancy,Yes
+13201,No,SMOKING DURING PREGNANCY,Smoking During Pregnancy,No
+13201,NO,SMOKING DURING PREGNANCY,Smoking During Pregnancy,No
+13301,Unknown,SMOKING DURING PREGNANCY,Smoking During Pregnancy,Unknown
+13301,UNKNOWN,SMOKING DURING PREGNANCY,Smoking During Pregnancy,Unknown
+14000,ALCOHOL USE DURING PREGNANCY,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,All
+14101,Yes,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,Yes
+14101,YES,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,Yes
+14201,No,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,No
+14201,NO,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,No
+14301,Unknown,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,Unknown
+14301,UNKNOWN,ALCOHOL USE DURING PREGNANCY,Alcohol Use During Pregnancy,Unknown
